@@ -1,6 +1,6 @@
 #include "Game.h"
-#include "Player.h"
-#include "Cpu.h"
+#include "Player.h" //przeniesc do Game.h
+#include "Cpu.h" // jw
 
 using namespace std;
 
